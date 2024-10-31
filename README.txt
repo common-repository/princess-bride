@@ -1,0 +1,1 @@
+=== Princess Bride ===Author: Jesse WintonTags: Wordpress AdminRequires at least: 3.0Stable tag: 1.1=== Description ===A plugin that displays various quotes from this very funny film in your Wordpress admin panel.
